@@ -1,2 +1,1 @@
-[index.php
-](https://carlospoquioma.github.io/web/)
+(https://carlospoquioma.github.io/web/)
